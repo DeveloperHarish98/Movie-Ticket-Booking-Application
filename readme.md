@@ -118,6 +118,13 @@ All error responses share the same `ErrorResponse` structure (timestamp, status,
 
 ---
 
+### Database Schema
 
-![Database View](Datbase.png)
+![Database Diagram](Database.png)
+
+### API Documentation (Postman Collection)
+
+![Postman Collection](Postman.png)
+
+---
 
