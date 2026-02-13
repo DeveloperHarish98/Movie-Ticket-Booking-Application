@@ -117,3 +117,7 @@ Centralized error handling is implemented in `GlobalExceptionHandler` using `@Re
 All error responses share the same `ErrorResponse` structure (timestamp, status, error, message, path), making it easier for clients to handle errors consistently.
 
 ---
+
+
+![Database View](Datbase.png)
+
